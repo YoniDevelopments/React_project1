@@ -10,6 +10,9 @@ Open the project folder `cd "project-name"`.\
 Stat the project to run on local host `npm start`
 Stripped the out of the box build  to start up fresh.\
   -I got rid of all but APP.js, App.css and index.js from the src folder.\
-  -Make sure to delete the modules and the HTML code that is not needed anymore(you can refer to the new build vs the original to see what was deleted"
+  -Make sure to delete the modules and the HTML code that is not needed anymore(you can refer to the new build vs the original to see what was deleted"\
+Created a components folder\
+Added Navbar.js and Navbar.css\
+we can use `rfce + "Enter"` to poulate the boiler plate React template with import and function and export
 
 
